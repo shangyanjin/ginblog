@@ -39,3 +39,6 @@ Support and Community
 For support, join our community forum or reach out on GitHub Discussions. Stay updated with the latest news and announcements by following us on Twitter.
 
 Let's build a vibrant community around GinBlog, empowering bloggers and content creators worldwide!
+
+Base on
+https://github.com/denisbakhtin/ginblog
