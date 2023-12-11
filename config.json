@@ -1,0 +1,38 @@
+{
+  "debug": {
+    "public": "public",
+    "host":"",
+    "port": "9999",
+    "domain": "http://localhost:8080",
+    "session_secret": "session-secret-phrase",
+    "signup_enabled": true,
+    "database": {
+      "host": "127.0.0.1",
+      "port": "3306",
+      "name": "ginblog",
+      "user": "root",
+      "password": "root"
+    },
+    "oauth": {
+      "google_client_id": "470128356787-9e6hsdfkjsldfjksdf5lmqdq0bmrr.apps.googleusercontent.com",
+      "google_secret": "UKSJDFisOOL12ZXkPppOVo9fcbj01"
+    }
+  },
+  "release": {
+    "public": "path_to_public_dir",
+    "domain": "http://mydomain.com",
+    "session_secret": "session-secret-phrase",
+    "signup_enabled": false, 
+    "database": {
+      "host": "127.0.0.1",
+      "port": "3306",
+      "name": "ginblog",
+      "user": "root",
+      "password": "root"
+    },
+    "oauth": {
+      "google_client_id": "470128356787-9e6hsdfkjsldfjksdf5lmqdq0bmrr.apps.googleusercontent.com",
+      "google_secret": "UKSJDFisOOL12ZXkPppOVo9fcbj01"
+    }
+  }
+}
